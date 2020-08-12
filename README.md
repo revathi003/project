@@ -1,6 +1,6 @@
 # project
 closest pair distance
-#step 1: Find the middle point in the sorted array, we can take P[n/2] as middle point.
+##step 1: Find the middle point in the sorted array, we can take P[n/2] as middle point.
 
 #step 2 : Divide the given array in two halves. The first subarray contains points from P[0] to P[n/2]. The second subarray contains points from P[n/2+1] to P[n-1].
 
